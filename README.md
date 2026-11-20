@@ -7,7 +7,7 @@ TEMPLATE FOR NEW ENTRIES (copy, paste under the appropriate language section, so
 - **Reference:** Full bibliographic reference
 -->
 
-# Counterspeech Dataset Catalogue
+# 🦉 Counterspeech Dataset Catalogue
 
 This page catalogues datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech and abuse.
 
