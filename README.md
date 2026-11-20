@@ -1,5 +1,3 @@
-# CounterSpeechDatasets
-
 # Counterspeech Dataset Catalog
 
 [![Datasets](https://img.shields.io/badge/Datasets-38-blue.svg)](#dataset-catalog)
