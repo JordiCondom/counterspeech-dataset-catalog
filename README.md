@@ -20,7 +20,7 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 
 1. Please send one dataset addition or edit per Pull Request.
 2. Open `README.md` and click the **Edit** icon (pencil) in the top right corner.
-3. Navigate to the appropriate **Language** section (if a dataset is multilingual, add an entry under each language it covers with `(Language)` in the title). Entries within each language are sorted by publication year (**newest first**).
+3. Navigate to the appropriate **Language** section (if a dataset is multilingual, add an entry under each language it covers with `(Language)` in the title). Entries within each language are sorted by publication year (**newest first**). If it is a new language, please create a new Language section based on alphabetical order within the list of languages.
 4. Copy and paste the commented-out template at the top of this file and fill in the details.
 5. Check the **Preview** tab, describe your change briefly, and submit a [Pull Request](https://github.com/JordiCondom/counterspeech-dataset-catalog/pulls) (or open an [Issue](https://github.com/JordiCondom/counterspeech-dataset-catalog/issues)).
 
