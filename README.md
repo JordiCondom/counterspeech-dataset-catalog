@@ -16,7 +16,7 @@ This page catalogues datasets annotated or constructed for **counterspeech (CS)*
 ## Contributing
 
 Contributions, corrections, and suggestions for additional counterspeech datasets are welcome! Feel free to open an [Issue](https://github.com/JordiCondom/counterspeech-dataset-catalog/issues) or submit a [Pull Request](https://github.com/JordiCondom/counterspeech-dataset-catalog/pulls).
-We accept entries to our catalogue via pull requests to `README.md`. To add or update a dataset:
+We accept entries to this catalogue via pull requests to `README.md`. To add or update a dataset:
 
 1. Please send one dataset addition or edit per Pull Request.
 2. Open `README.md` and click the **Edit** icon (pencil) in the top right corner.
