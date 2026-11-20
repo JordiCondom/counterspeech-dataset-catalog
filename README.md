@@ -9,9 +9,7 @@ TEMPLATE FOR NEW ENTRIES (copy, paste under the appropriate language section, so
 
 # Counterspeech Dataset Catalogue
 
-This page catalogues datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech and abuse. They may be useful for training and evaluating NLP systems for counterspeech detection, generation, and evaluation.
-
-The list is maintained by **Jordi Condom**.
+This page catalogues datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech and abuse.
 
 > **Disclaimer:** This catalogue is provided for informational and research purposes only. Before downloading, redistributing, or using any dataset listed here, please carefully review and comply with the specific **licenses, terms of use, ethical guidelines, and legal or platform regulations** (such as data protection laws or non-commercial/research-only restrictions) associated with each individual resource.
 
