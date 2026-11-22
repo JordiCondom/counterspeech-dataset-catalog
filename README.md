@@ -272,3 +272,147 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Reference:** 
 
 #### CONAN - COunter NArratives through nichesourcing: a multilingual dataset of responses to fight online hate speech
+- **Dataset name:** CONAN
+- **Link to publication:** https://www.aclweb.org/anthology/P19-1271.pdf
+- **Language:** French (also available in English, Italian)
+- **Reference:** Chung, Y.-L., Kuzmenko, E., Tekiroglu, S. S., & Guerini, M. (2019, July). CONAN - COunter NArratives through nichesourcing: a multilingual dataset of responses to fight online hate speech. In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* (pp. 2819–2829), Florence, Italy. Association for Computational Linguistics.
+
+---
+
+### Hindi
+
+#### Low-Resource Counterspeech Generation for Indic Languages: The Case of Bengali and Hindi
+- **Dataset name:** IndicCounterSpeech
+- **Link to publication:** TBD
+- **Language:** Hindi (also available in Bengali)
+- **Reference:** 
+
+---
+
+### Italian
+
+#### CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+- **Dataset name:** CATCH-ME
+- **Link to publication:** TBD
+- **Language:** Italian (also available in English, Maltese, Polish, Spanish)
+- **Reference:** Bonaldi, H., Martone, G., & Guerini, M. (2026). CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges. *arXiv preprint arXiv:2606.20369*.
+
+#### The first workshop on multilingual counterspeech generation at COLING 2025: Overview of the shared task
+- **Dataset name:** ML-MTCONAN-KN
+- **Link to publication:** TBD
+- **Language:** Italian (also available in Basque, English, Spanish)
+- **Reference:** Bonaldi, H., Vallecillo-Rodríguez, M. E., Zubiaga, I., Montejo-Ráez, A., Soroa, A., Martín-Valdivia, M. T., ... & Agerri, R. (2025, January). The first workshop on multilingual counterspeech generation at COLING 2025: Overview of the shared task. In *Proceedings of the First Workshop on Multilingual Counterspeech Generation* (pp. 92–107).
+
+#### Counter-TWIT: An Italian corpus for online counterspeech in ecological contexts
+- **Dataset name:** Counter-TWIT
+- **Link to publication:** TBD
+- **Language:** Italian
+- **Reference:** Goffredo, P., Basile, V., Cepollaro, B., & Patti, V. (2022). Counter-TWIT: An Italian corpus for online counterspeech in ecological contexts. In *Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)* (pp. 57–66), Seattle, Washington (Hybrid). Association for Computational Linguistics.
+
+#### Multilingual counter narrative type classification
+- **Dataset name:** multilingualCN-classification
+- **Link to publication:** TBD
+- **Language:** Italian (also available in English, French)
+- **Reference:** 
+
+#### CONAN - COunter NArratives through nichesourcing: a multilingual dataset of responses to fight online hate speech
+- **Dataset name:** CONAN
+- **Link to publication:** https://www.aclweb.org/anthology/P19-1271.pdf
+- **Language:** Italian (also available in English, French)
+- **Reference:** Chung, Y.-L., Kuzmenko, E., Tekiroglu, S. S., & Guerini, M. (2019, July). CONAN - COunter NArratives through nichesourcing: a multilingual dataset of responses to fight online hate speech. In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* (pp. 2819–2829), Florence, Italy. Association for Computational Linguistics.
+
+---
+
+### Korean
+
+#### Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean
+- **Dataset name:** KHSCP
+- **Link to publication:** TBD
+- **Language:** Korean
+- **Reference:** 
+
+---
+
+### Malayalam
+
+#### Counter-speech generation for homophobic and transphobic social media content in Malayalam
+- **Dataset name:** CN-Malayalam
+- **Link to publication:** TBD
+- **Language:** Malayalam
+- **Reference:** Prasannan, P., Kumaresan, P. K., Rajiakodi, S., Subalalitha, C. N., & Chakravarthi, B. R. (2025). Counter-speech generation for homophobic and transphobic social media content in Malayalam. *Social Network Analysis and Mining*, 15(1), 87.
+
+---
+
+### Maltese
+
+#### CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+- **Dataset name:** CATCH-ME
+- **Link to publication:** TBD
+- **Language:** Maltese (also available in English, Italian, Polish, Spanish)
+- **Reference:** Bonaldi, H., Martone, G., & Guerini, M. (2026). CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges. *arXiv preprint arXiv:2606.20369*.
+
+---
+
+### Polish
+
+#### CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+- **Dataset name:** CATCH-ME
+- **Link to publication:** TBD
+- **Language:** Polish (also available in English, Italian, Maltese, Spanish)
+- **Reference:** Bonaldi, H., Martone, G., & Guerini, M. (2026). CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges. *arXiv preprint arXiv:2606.20369*.
+
+---
+
+### Spanish
+
+#### CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+- **Dataset name:** CATCH-ME
+- **Link to publication:** TBD
+- **Language:** Spanish (also available in English, Italian, Maltese, Polish)
+- **Reference:** Bonaldi, H., Martone, G., & Guerini, M. (2026). CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges. *arXiv preprint arXiv:2606.20369*.
+
+#### The first workshop on multilingual counterspeech generation at COLING 2025: Overview of the shared task
+- **Dataset name:** ML-MTCONAN-KN
+- **Link to publication:** TBD
+- **Language:** Spanish (also available in Basque, English, Italian)
+- **Reference:** Bonaldi, H., Vallecillo-Rodríguez, M. E., Zubiaga, I., Montejo-Ráez, A., Soroa, A., Martín-Valdivia, M. T., ... & Agerri, R. (2025, January). The first workshop on multilingual counterspeech generation at COLING 2025: Overview of the shared task. In *Proceedings of the First Workshop on Multilingual Counterspeech Generation* (pp. 92–107).
+
+#### Basque and Spanish Counter Narrative Generation: Data Creation and Evaluation
+- **Dataset name:** CONAN-EUS
+- **Link to publication:** TBD
+- **Language:** Spanish (also available in Basque)
+- **Reference:** 
+
+#### CONAN-MT-SP: A Spanish corpus for counternarrative using GPT models
+- **Dataset name:** CONAN-MT-SP
+- **Link to publication:** TBD
+- **Language:** Spanish
+- **Reference:** Vallecillo-Rodríguez, M. E., Cantero-Romero, M. V., De Castro, I. C., Montejo-Ráez, A., & Martín-Valdivia, M. T. (2024, May). CONAN-MT-SP: A Spanish corpus for counternarrative using GPT models. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* (pp. 3677–3688).
+
+#### Automatic counter-narrative generation for hate speech in Spanish
+- **Dataset name:** CONAN-SP
+- **Link to publication:** TBD
+- **Language:** Spanish
+- **Reference:** Vallecillo-Rodríguez, M. E., Montejo-Ráez, A., & Martín-Valdivia, M. T. (2023). Automatic counter-narrative generation for hate speech in Spanish. *Procesamiento del Lenguaje Natural*, 71, 227–245.
+
+#### Parsimonious argument annotations for hate speech counternarratives
+- **Dataset name:** ASFoCoNG
+- **Link to publication:** TBD
+- **Language:** Spanish (also available in English)
+- **Reference:** Furman, D. A., Torres, P., Rodriguez, J. A., Martinez, L., Alonso Alemany, L., Letzen, D., & Martinez, M. V. (2022). Parsimonious argument annotations for hate speech counternarratives. *arXiv e-prints*, arXiv:2208.
+
+---
+
+### Tamil
+
+#### Findings of Shared Task on Counter Narrative Generation on Homophobic and Transphobic Comments
+- **Dataset name:** LT-EDI 2026 Shared Task Dataset
+- **Link to publication:** TBD
+- **Language:** Tamil (also available in English)
+- **Reference:** 
+
+#### Nalvakku: fact-based counter narratives for Tamil hate speech
+- **Dataset name:** Nalvakku
+- **Link to publication:** TBD
+- **Language:** Tamil
+- **Reference:**
