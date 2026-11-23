@@ -20,7 +20,7 @@ A curated, multilingual catalogue of datasets annotated or constructed for **cou
 
 *This catalogue is an ongoing work in progress. More datasets (for instance, resources specifically targeting disinformation and other forms of harmful speech) will be added over time.*
 
-This catalogue is inspired by, and follows a very similar structure to, the [Hate Speech Dataset Catalogue](https://hatespeechdata.com/) — *Catalog of abusive language data (PLoS 2020)*.
+This catalogue is inspired by, and follows a very similar structure to, the [Hate Speech Dataset Catalogue](https://hatespeechdata.com/). If you are interested in these topics, I strongly suggest taking a look at it as well.
 
 > [!NOTE]
 > **Disclaimer:** This catalogue is provided for informational and research purposes only. Before downloading, redistributing, or using any dataset listed here, please carefully review and comply with the specific **licenses, terms of use, ethical guidelines, and legal or platform regulations** or any other restriction and condition associated with each individual resource. Additionally, please verify whether any listed papers currently cited as **preprints** have since been officially published in peer-reviewed venues.
