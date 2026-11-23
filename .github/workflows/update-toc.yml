@@ -1,0 +1,64 @@
+name: Update TOC and Counts
+
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'README.md' ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recalculate dataset counts
+        run: |
+          python3 - << 'EOF'
+          import re
+          from pathlib import Path
+
+          readme = Path("README.md").read_text(encoding="utf-8")
+          body = readme.split("## List of datasets", 1)[1]
+          body = body.split("## Maintainer & Contact", 1)[0]
+
+          langs = {}
+          unique_papers = set()
+          current_lang = None
+
+          for line in body.splitlines():
+              if line.startswith("### "):
+                  current_lang = line[4:].strip()
+                  langs[current_lang] = 0
+              elif line.startswith("#### ") and current_lang:
+                  langs[current_lang] += 1
+                  unique_papers.add(line[5:].strip().lower())
+
+          toc_items = [
+              f"[{lang} ({count})](#{lang.lower().replace(' ', '-')})"
+              for lang, count in langs.items()
+          ]
+          new_toc = "<!-- TOC:START -->\n" + " · ".join(toc_items) + "\n<!-- TOC:END -->"
+
+          new_badges = (
+              "<!-- BADGES:START -->\n"
+              f"[![Datasets](https://img.shields.io/badge/Datasets-{len(unique_papers)}-blue)](#list-of-datasets)\n"
+              f"[![Languages](https://img.shields.io/badge/Languages-{len(langs)}-green)](#datasets-by-language)\n"
+              "[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/JordiCondom/counterspeech-dataset-catalog/pulls)\n"
+              "<!-- BADGES:END -->"
+          )
+
+          updated = re.sub(r"<!-- TOC:START -->.*?<!-- TOC:END -->", new_toc, readme, flags=re.S)
+          updated = re.sub(r"<!-- BADGES:START -->.*?<!-- BADGES:END -->", new_badges, updated, flags=re.S)
+
+          if updated != readme:
+              Path("README.md").write_text(updated, encoding="utf-8")
+          EOF
+
+      - name: Commit changes if needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "Auto-update dataset counts and TOC" && git push)
