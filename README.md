@@ -18,7 +18,7 @@ TEMPLATE FOR NEW ENTRIES (copy, paste under the appropriate language section, so
 
 A curated, multilingual catalogue of datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech, disinformation, and other forms of harmful speech.
 
-*This catalogue is an ongoing work in progress—more datasets (for instance, resources specifically targeting disinformation and other forms of harmful speech) will be added over time.*
+*This catalogue is an ongoing work in progress. More datasets (for instance, resources specifically targeting disinformation and other forms of harmful speech) will be added over time.*
 
 This catalogue is inspired by, and follows a very similar structure to, the [Hate Speech Dataset Catalogue](https://hatespeechdata.com/) — *Catalog of abusive language data (PLoS 2020)*.
 
