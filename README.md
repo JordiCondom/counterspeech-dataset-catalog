@@ -147,12 +147,6 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Language:** English
 - **Reference:** Song, X., Perez, S. L., Yu, X., Blanco, E., & Hong, L. (2025, April). Echoes of discord: Forecasting hater reactions to counterspeech. In Findings of the Association for Computational Linguistics: NAACL 2025 (pp. 4907-4920).
 
-#### Assessing the human likeness of AI-generated counterspeech
-- **Dataset name:** counterspeech_eval_humanlike
-- **Link to publication:** TBD
-- **Language:** English
-- **Reference:** Song, X., Mamidisetty, S., Blanco, E., & Hong, L. (2025, January). Assessing the human likeness of AI-generated counterspeech. In *Proceedings of the 31st International Conference on Computational Linguistics* (pp. 3547–3559).
-
 #### Fact-based Counter Narrative Generation to Combat Hate Speech
 - **Dataset name:** counternarratives (Wilk et al., 2025)
 - **Link to publication:** TBD
@@ -248,6 +242,12 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Link to publication:** https://www.aclweb.org/anthology/2020.alw-1.19.pdf
 - **Language:** English
 - **Reference:** Vidgen, B., Hale, S., Guest, E., Margetts, H., Broniatowski, D., Waseem, Z., Botelho, A., Hall, M., & Tromble, R. (2020). Detecting East Asian prejudice on social media. In *Proceedings of the Fourth Workshop on Online Abuse and Harms* (pp. 162–172), Online. Association for Computational Linguistics.
+
+#### A benchmark dataset for learning to intervene in online hate speech
+- **Dataset name:** A Benchmark Dataset for Learning to Intervene in Online Hate Speech
+- **Link to publication:** TBD
+- **Language:** English
+- **Reference:** Qian, J., Bethke, A., Liu, Y., Belding, E., & Wang, W. Y. (2019, November). A benchmark dataset for learning to intervene in online hate speech. In *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)* (pp. 4755–4764), Hong Kong, China. Association for Computational Linguistics.
 
 #### CONAN - COunter NArratives through nichesourcing: a multilingual dataset of responses to fight online hate speech
 - **Dataset name:** CONAN
