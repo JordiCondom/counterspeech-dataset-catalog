@@ -10,15 +10,28 @@ TEMPLATE FOR NEW ENTRIES (copy, paste under the appropriate language section, so
 
 # 🦉 Counterspeech Dataset Catalogue
 
-This page catalogues datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech and abuse.
+<!-- BADGES:START -->
+[![Datasets](https://img.shields.io/badge/Datasets-38-blue)](#list-of-datasets)
+[![Languages](https://img.shields.io/badge/Languages-13-green)](#datasets-by-language)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/JordiCondom/counterspeech-dataset-catalog/pulls)
+<!-- BADGES:END -->
+
+A curated, multilingual catalogue of datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech, disinformation, and other forms of harmful speech.
 
 This catalogue is inspired by, and follows a very similar structure to, the [Hate Speech Dataset Catalogue](https://hatespeechdata.com/) — *Catalog of abusive language data (PLoS 2020)*.
 
+> [!NOTE]
 > **Disclaimer:** This catalogue is provided for informational and research purposes only. Before downloading, redistributing, or using any dataset listed here, please carefully review and comply with the specific **licenses, terms of use, ethical guidelines, and legal or platform regulations** or any other restriction and condition associated with each individual resource.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions, corrections, and suggestions for additional counterspeech datasets are welcome! Feel free to open an [Issue](https://github.com/JordiCondom/counterspeech-dataset-catalog/issues) or submit a [Pull Request](https://github.com/JordiCondom/counterspeech-dataset-catalog/pulls).
+
+<details>
+<summary><strong>How to add or update a dataset (click to expand)</strong></summary>
+
+<br>
+
 We accept entries to this catalogue via pull requests to `README.md`. To add or update a dataset:
 
 1. Please send one dataset addition or edit per Pull Request.
@@ -27,23 +40,15 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 4. Copy and paste the commented-out template at the top of this file and fill in the details.
 5. Check the **Preview** tab, describe your change briefly, and submit a [Pull Request](https://github.com/JordiCondom/counterspeech-dataset-catalog/pulls) (or open an [Issue](https://github.com/JordiCondom/counterspeech-dataset-catalog/issues)).
 
+</details>
+
 ---
 
-## Datasets Table of Contents
+## 🌍 Datasets by Language
 
-- [Basque](#basque)
-- [Bengali](#bengali)
-- [Chinese](#chinese)
-- [English](#english)
-- [French](#french)
-- [Hindi](#hindi)
-- [Italian](#italian)
-- [Korean](#korean)
-- [Malayalam](#malayalam)
-- [Maltese](#maltese)
-- [Polish](#polish)
-- [Spanish](#spanish)
-- [Tamil](#tamil)
+<!-- TOC:START -->
+[Basque (2)](#basque) · [Bengali (1)](#bengali) · [Chinese (1)](#chinese) · [English (29)](#english) · [French (2)](#french) · [Hindi (1)](#hindi) · [Italian (5)](#italian) · [Korean (1)](#korean) · [Malayalam (1)](#malayalam) · [Maltese (1)](#maltese) · [Polish (1)](#polish) · [Spanish (6)](#spanish) · [Tamil (2)](#tamil)
+<!-- TOC:END -->
 
 ---
 
@@ -81,7 +86,7 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Link to dataset:** https://github.com/michaelbennieUFL/PANDA
 - **Link to paper:** https://aclanthology.org/2025.mcg-1.1/
 - **Language:** Chinese
-- **Reference:** Bennie, M., Zhang, D., Xiao, B., Cao, J., Liu, C. X., Meng, J., & Tripp, A. (2025, January). PANDA-paired anti-hate narratives dataset from Asia: Using an LLM-as-a-judge to create the first Chinese counterspeech dataset. In Proceedings of the First Workshop on Multilingual Counterspeech Generation (pp. 1-12).
+- **Reference:** Bennie, M., Zhang, D., Xiao, B., Cao, J., Liu, C. X., Meng, J., & Tripp, A. (2025, January). PANDA-paired anti-hate narratives dataset from Asia: Using an LLM-as-a-judge to create the first Chinese counterspeech dataset. In *Proceedings of the First Workshop on Multilingual Counterspeech Generation* (pp. 1–12).
 
 ---
 
@@ -157,7 +162,7 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Link to dataset:** https://github.com/hate-alert/CrowdCounter
 - **Link to paper:** https://aclanthology.org/2024.conll-1.37/
 - **Language:** English
-- **Reference:** Saha, P., Datta, A., Jana, A., & Mukherjee, A. (2024, November). CrowdCounter: A benchmark type-specific multi-target counterspeech dataset. In Proceedings of the 28th Conference on Computational Natural Language Learning (pp. 470-488).
+- **Reference:** Saha, P., Datta, A., Jana, A., & Mukherjee, A. (2024, November). CrowdCounter: A benchmark type-specific multi-target counterspeech dataset. In *Proceedings of the 28th Conference on Computational Natural Language Learning* (pp. 470–488).
 
 #### On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech
 - **Link to dataset:** https://github.com/Turing-Online-Safety-Codebase/counterspeech_adversarial
@@ -205,7 +210,7 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Link to dataset:** https://github.com/marcoguerini/CONAN
 - **Link to paper:** https://aclanthology.org/2022.emnlp-main.549/
 - **Language:** English
-- **Reference:** Bonaldi, H., Dellantonio, S., Tekiroğlu, S. S., & Guerini, M. (2022, December). Human-machine collaboration approaches to build a dialogue dataset for hate speech countering. In Proceedings of the 2022 conference on empirical methods in natural language processing (pp. 8031-8049).
+- **Reference:** Bonaldi, H., Dellantonio, S., Tekiroğlu, S. S., & Guerini, M. (2022, December). Human-machine collaboration approaches to build a dialogue dataset for hate speech countering. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing* (pp. 8031–8049).
 
 #### Hate speech and counter speech detection: Conversational context does matter
 - **Link to dataset:** https://github.com/xinchenyu/counter_context
@@ -416,3 +421,10 @@ We accept entries to this catalogue via pull requests to `README.md`. To add or 
 - **Link to paper:** https://link.springer.com/article/10.1007/s41060-026-01023-x
 - **Language:** Tamil
 - **Reference:** Ravikumar, N., Kumaresan, P. K., Rajiakodi, S., Subalalitha, C. N., & Chakravarthi, B. R. (2026). Nalvakku: fact-based counter narratives for Tamil hate speech. *International Journal of Data Science and Analytics*, 22(1), 57.
+
+---
+
+## Maintainer & Contact
+
+This catalogue is maintained by **Jordi Guillem Condom-Tibau**.  
+For inquiries, corrections, or suggestions, please open an [Issue](https://github.com/JordiCondom/counterspeech-dataset-catalog/issues) or reach out via email at `jordi.condom [at] phd.unipi.it`.
