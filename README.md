@@ -12,7 +12,7 @@ TEMPLATE FOR NEW ENTRIES (copy, paste under the appropriate language section, so
 
 This page catalogues datasets annotated or constructed for **counterspeech (CS)** and **counter-narratives (CN)** to combat online hate speech and abuse.
 
-This catalogue is inspired by, and follows a very similar structure to, the [Hate Speech Dataset Catalogue (`hatespeechdata`)](https://hatespeechdata.com/) — *Catalog of abusive language data (PLoS 2020)*.
+This catalogue is inspired by, and follows a very similar structure to, the [Hate Speech Dataset Catalogue](https://hatespeechdata.com/) — *Catalog of abusive language data (PLoS 2020)*.
 
 > **Disclaimer:** This catalogue is provided for informational and research purposes only. Before downloading, redistributing, or using any dataset listed here, please carefully review and comply with the specific **licenses, terms of use, ethical guidelines, and legal or platform regulations** or any other restriction and condition associated with each individual resource.
 
